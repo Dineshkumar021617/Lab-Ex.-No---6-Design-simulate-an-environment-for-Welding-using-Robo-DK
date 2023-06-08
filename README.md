@@ -133,7 +133,7 @@ r.MoveJ(p(-2.25533,73.6122,506.25,-55,0,-180),[50.5473,15.5671,18.4613,-129.057,
 r.MoveJ(p(40.306,60.6497,506.25,-55,0,180),[43.4938,21.9554,7.73618,-122.234,-124.231,143.662],[1,1,0])
 r.MoveJ(p(-3.04895,-73.119,506.25,-40,0,-180),[30.7146,14.5849,19.949,-107.346,-135.635,130.071],[1,1,0])
 r.ProgFinish(r"""Prog1""")
-r.ProgSave(r"""C:/Users/vincent/OneDrive/Documents/RoboDK""",r"""Prog1""",True,r"""D:/RoboDK/Other/VSCodium/VSCodium.exe""")
+r.ProgSave(r"""C:/Users/dinesh/OneDrive/Documents/RoboDK""",r"""Prog1""",True,r"""D:/RoboDK/Other/VSCodium/VSCodium.exe""")
 
 ```
 ### simulation :
